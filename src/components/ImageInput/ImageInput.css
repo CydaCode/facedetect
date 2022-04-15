@@ -1,0 +1,20 @@
+.colordiv {
+     background-color: #253957;
+}
+
+input{
+    width: 100%;
+}
+
+
+
+@media (min-width: 700px) {
+    input{
+        width: 70%;
+    }
+
+    button {
+        width: 30%;
+    }
+
+}
